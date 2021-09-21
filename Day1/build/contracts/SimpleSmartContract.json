@@ -1,0 +1,123 @@
+{
+  "contractName": "SimpleSmartContract",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.6+commit.11564f7e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/simplesmartcontract.sol\":\"SimpleSmartContract\"},\"evmVersion\":\"berlin\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/simplesmartcontract.sol\":{\"keccak256\":\"0xcef38c66bf8ae89b1a49240065bff404ac6816d28efc81c338fb0a1d15140e1e\",\"urls\":[\"bzz-raw://815b6e30dbf9aecde922bc614ec724bbc49764781a50729189ec30d4882fc87c\",\"dweb:/ipfs/QmahN7J2i5Lp7VH1pTAqMbwVAUkYbXevH557KqUUs3j6p4\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212205ef2615e15ccc364cbf8cad5af3f35b897314bbab7d42178c16fed0a0b2ee29564736f6c63430008060033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212205ef2615e15ccc364cbf8cad5af3f35b897314bbab7d42178c16fed0a0b2ee29564736f6c63430008060033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "25:37:1:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "25:37:1:-:0;;;;;",
+  "source": "pragma solidity ^0.8.1;\n\ncontract SimpleSmartContract {\n    \n}",
+  "sourcePath": "/home/miield/Desktop/Remix/EatTheBlocks/Day1/contracts/simplesmartcontract.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/simplesmartcontract.sol",
+    "exportedSymbols": {
+      "SimpleSmartContract": [
+        35
+      ]
+    },
+    "id": 36,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".1"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "SimpleSmartContract",
+        "nameLocation": "34:19:1",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "25:37:1",
+        "usedErrors": []
+      }
+    ],
+    "src": "0:62:1"
+  },
+  "legacyAST": {
+    "absolutePath": "project:/contracts/simplesmartcontract.sol",
+    "exportedSymbols": {
+      "SimpleSmartContract": [
+        35
+      ]
+    },
+    "id": 36,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".1"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "SimpleSmartContract",
+        "nameLocation": "34:19:1",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "25:37:1",
+        "usedErrors": []
+      }
+    ],
+    "src": "0:62:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.6+commit.11564f7e.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0xc943fe0C514291e5de4C644501588F862E8546fD",
+      "transactionHash": "0x3f5c08063086f805d2b9d1b0bf665a5866ca957ada6b6c873c23a1f92bbbcda4"
+    }
+  },
+  "schemaVersion": "3.4.3",
+  "updatedAt": "2021-09-21T09:51:51.910Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
