@@ -1,0 +1,23 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "30 Days Solidity",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static-server public"
+  },
+  "keywords": [
+    "Solidity",
+    "Smart",
+    "Contract"
+  ],
+  "author": "Miield",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
